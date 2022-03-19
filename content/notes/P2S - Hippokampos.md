@@ -41,12 +41,12 @@ tags:
 
 ### Channeling Overflow 2
 {{< rawhtml >}}
-<img src="notes/images/flow2.jpg" width="500">
+<img src="/notes/images/flow2.jpg" width="500">
 {{< /rawhtml >}}
 
 ### Predatory Avarice 2
 {{< rawhtml >}}
-<img src="notes/images/avarice2.jpg" width="500px">
+<img src="/notes/images/avarice2.jpg" width="500px">
 {{< /rawhtml >}}
 
 ---
