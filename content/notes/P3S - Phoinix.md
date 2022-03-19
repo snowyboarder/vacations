@@ -34,10 +34,10 @@ tags:
 
 ## Strategy Reference
 ### Dark Fire Numbers
-![Dark Fire|700](/content/notes/images/Pasted%20image%2020220318211834.png)
+![Dark Fire|700](/quartz/notes/images/Pasted%20image%2020220318211834.png)
 ### Add Tethers
-![Tethers|400](/content/notes/images/Pasted%20image%2020220318211605.png)
-![Solo tethers|400](/content/notes/images/Pasted%20image%2020220318211746.png)
+![Tethers|400](/quartz/notes/images/Pasted%20image%2020220318211605.png)
+![Solo tethers|400](/quartz/notes/images/Pasted%20image%2020220318211746.png)
 ### Fountain of Fire toolbox
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1)
 
