@@ -8,9 +8,11 @@ tags:
 
 ## Encounter Info
 
-**DPS Check:** ~39,661 DPS
-**Enrage**: 10:20
+>**DPS Check:** ~39,661 DPS
 
+>**Enrage**: 10:20
+
+## Drops
 **Chest One**
 - 1 coffer randomly selected from the following:
 	- Wrist
