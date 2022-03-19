@@ -56,6 +56,11 @@ tags:
 
 **Video Guides**:
 - [Rainesama](https://www.youtube.com/watch?v=ZgA7787UGKk)
+
+{{< rawhtml >}}
+<iframe width="2485" height="1086" src="https://www.youtube.com/embed/Efkbo-LdZdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 - [Joonbob Kampeos Harma pocket guide](https://www.youtube.com/watch?v=PRQSMXcjpRk)
 - [Joonbob Channeling Overflow 2+3 pocket guide](https://www.youtube.com/watch?v=lWMYCSBy6Ak)
 
