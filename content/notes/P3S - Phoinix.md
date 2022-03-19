@@ -33,17 +33,23 @@ tags:
 
 
 ## Strategy Reference
+
 ### Dark Fire Numbers
 ![Dark Fire|700](/quartz/notes/images/Pasted%20image%2020220318211834.png)
+
 ### Add Tethers
 ![Tethers|400](/quartz/notes/images/Pasted%20image%2020220318211605.png)
 ![Solo tethers|400](/quartz/notes/images/Pasted%20image%2020220318211746.png)
+
 ### Fountain of Fire toolbox
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1)
-
 
 ---
 
 ### Guide Links
-**The Balance**: 
-**Video Guide**: 
+**The Balance**: [Text guide](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p3s/)
+
+**Video Guides**:
+- [Rainesama](https://www.youtube.com/watch?v=aE9QuyRT5wY)
+- [Joonbob Adds phase pocket guide](https://www.youtube.com/watch?v=DGWKBtK7lR4)
+- [Joonbob Flames of Asphodelos pocket guide](https://www.youtube.com/watch?v=VebIW87iAQY)

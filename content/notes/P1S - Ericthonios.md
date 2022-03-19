@@ -6,6 +6,7 @@ tags:
 - Asphodelos
 ---
 # P1S - Ericthonios
+[Asphodelos](notes/Asphodelos.md)
 
 ## Encounter Info
 
@@ -32,12 +33,18 @@ tags:
 
 ## Notable Mechanics
 
-
 ## Strategy Reference
+
+### Intemperance - N/NE swap
+[Toolbox Link](https://ff14.toolboxgaming.space/?id=425445241051461&preview=1#1)
+
+### Fourfold Shackles - Timer strat
+![Timer strat|500](/quartz/notes/images/timer%20strat.jpg)
 
 ---
 
 ### Guide Links
-**The Balance**: https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p1s/
-**Video Guide**: https://www.youtube.com/watch?v=Efkbo-LdZdI
+**The Balance**: [Text guide](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p1s/)
+
+**Video Guide**: [Rainesama](https://www.youtube.com/watch?v=Efkbo-LdZdI)
 

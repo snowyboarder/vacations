@@ -5,13 +5,13 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-Tags: [Raid](Raid)
-
 # P2S - Hippokampos
+[Asphodelos](notes/Asphodelos.md)
 
 ## Encounter Info
 
 >**DPS Check:** ~41,900 DPS
+
 >**Enrage**: 10:28
 
 ### Drops
@@ -37,8 +37,19 @@ Tags: [Raid](Raid)
 
 ## Strategy Reference
 
+### Kampeos Harma
+[Toolbox Link](https://ff14.toolboxgaming.space/?id=677343458141461&preview=1)
+
+### Channeling Overflow 2
+![Avarice|500](/quartz/notes/images/flow2.jpg)
+
+### Predatory Avarice 2
+![Avarice|500](/quartz/notes/images/avarice2.jpg)
+
+
 ---
 
 ### Guide Links
 **The Balance**: 
+
 **Video Guide**:
