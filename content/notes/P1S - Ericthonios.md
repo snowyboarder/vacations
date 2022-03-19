@@ -40,7 +40,7 @@ tags:
 
 ### Fourfold Shackles - Timer strat
 {{< rawhtml >}}
-<img src="notes/images/timer%20strat.jpg" width="500">
+<img src="/notes/images/timer%20strat.jpg" width="500">
 {{< /rawhtml >}}
 
 ---
