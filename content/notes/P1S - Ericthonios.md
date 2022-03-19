@@ -6,7 +6,7 @@ tags:
 - Asphodelos
 ---
 # P1S - Ericthonios
-[Asphodelos](notes/Asphodelos.md)
+[Back](notes/Asphodelos.md)
 
 ## Encounter Info
 

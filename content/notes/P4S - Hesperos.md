@@ -7,6 +7,7 @@ tags:
 ---
 
 # P4S - Hesperos
+[Back](notes/Asphodelos.md)
 
 ## Encounter Info
 
@@ -33,4 +34,5 @@ tags:
 
 ## Guide Links
 **The Balance**: 
+
 **Video Guide**: 

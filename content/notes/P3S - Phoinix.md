@@ -6,7 +6,7 @@ tags:
 - Asphodelos
 ---
 # P3S - Phoinix
-[Asphodelos](notes/Asphodelos.md)
+[Back](notes/Asphodelos.md)
 
 ## Encounter Info
 
