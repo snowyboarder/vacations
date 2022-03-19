@@ -1,9 +1,9 @@
 ---
 title: "P1S - Ericthonios"
 tags:
+- Raid
+- Pandemonium
 ---
-Tags: [Raid](Raid) [Asphodelos](Asphodelos.md) [Pandemonium](Pandemonium)
-
 # P1S - Ericthonios
 
 ## Encounter Info

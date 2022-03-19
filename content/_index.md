@@ -1,9 +1,9 @@
 ---
 title: "Asphodelos"
 tags:
+- Raid
+- Pandemonium
 ---
-Tags: [[Raid]] [[Pandemonium]]
-
 # Asphodelos
 
 ## Fights in tier:

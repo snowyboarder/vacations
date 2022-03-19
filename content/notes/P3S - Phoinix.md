@@ -1,9 +1,9 @@
 ---
 title: "P3S - Phoinix"
 tags:
+- Raid
+- Pandemonium
 ---
-Tags: [Raid](Raid) [Asphodelos](Asphodelos.md) [Pandemonium](Pandemonium)
-
 # P3S - Phoinix
 
 ## Encounter Info

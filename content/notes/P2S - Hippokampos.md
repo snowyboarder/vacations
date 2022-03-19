@@ -1,9 +1,9 @@
 ---
 title: "P2S - Hippokampos"
 tags:
+- Raid
+- Pandemonium
 ---
-Tags: [Raid](Raid) [Asphodelos](Asphodelos.md) [Pandemonium](Pandemonium)
-
 # P2S - Hippokampos
 
 ## Encounter Info
