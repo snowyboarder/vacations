@@ -40,7 +40,7 @@ tags:
 
 ### Fourfold Shackles - Timer strat
 {{< rawhtml >}}
-<img src="/notes/images/timer%20strat.jpg" width="500">
+<img src="/notes/images/timer%20strat.jpg" width="60%">
 {{< /rawhtml >}}
 
 ---
@@ -50,3 +50,6 @@ tags:
 
 **Video Guide**: [Rainesama](https://www.youtube.com/watch?v=Efkbo-LdZdI)
 
+{{< rawhtml >}}
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Efkbo-LdZdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}

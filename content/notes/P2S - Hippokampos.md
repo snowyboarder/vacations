@@ -41,12 +41,12 @@ tags:
 
 ### Channeling Overflow 2
 {{< rawhtml >}}
-<img src="/notes/images/flow2.jpg" width="500">
+<img src="/notes/images/flow2.jpg" width="60%">
 {{< /rawhtml >}}
 
 ### Predatory Avarice 2
 {{< rawhtml >}}
-<img src="/notes/images/avarice2.jpg" width="500px">
+<img src="/notes/images/avarice2.jpg" width="60%px">
 {{< /rawhtml >}}
 
 ---
@@ -58,9 +58,17 @@ tags:
 - [Rainesama](https://www.youtube.com/watch?v=ZgA7787UGKk)
 
 {{< rawhtml >}}
-<iframe width="2485" height="1086" src="https://www.youtube.com/embed/Efkbo-LdZdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ZgA7787UGKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 - [Joonbob Kampeos Harma pocket guide](https://www.youtube.com/watch?v=PRQSMXcjpRk)
+
+{{< rawhtml >}}
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/PRQSMXcjpRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 - [Joonbob Channeling Overflow 2+3 pocket guide](https://www.youtube.com/watch?v=lWMYCSBy6Ak)
 
+{{< rawhtml >}}
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/lWMYCSBy6Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}

@@ -35,22 +35,22 @@ tags:
 
 ### Dark Fire Numbers
 {{< rawhtml >}}
-<img src="/notes/images/Pasted%20image%2020220318211834.png" width="900">
+<img src="/notes/images/Pasted%20image%2020220318211834.png" width="60%">
 {{< /rawhtml >}}
 
 ### Add Tethers
 {{< rawhtml >}}
-<img src="/notes/images/Pasted%20image%2020220318211605.png" width="500">
+<img src="/notes/images/Pasted%20image%2020220318211605.png" width="60%">
 {{< /rawhtml >}}
 {{< rawhtml >}}
-<img src="/notes/images/Pasted%20image%2020220318211746.png" width="500">
+<img src="/notes/images/Pasted%20image%2020220318211746.png" width="60%">
 {{< /rawhtml >}}
 
 
 #### Line AoE hitbox
 
 {{< rawhtml >}}
-<img src="/notes/images/adds-dash.jpg" width="500">
+<img src="/notes/images/adds-dash.jpg" width="60%">
 {{< /rawhtml >}}
 
 ### Fountain of Fire toolbox
@@ -63,5 +63,20 @@ tags:
 
 **Video Guides**:
 - [Rainesama](https://www.youtube.com/watch?v=aE9QuyRT5wY)
+
+{{< rawhtml >}}
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/aE9QuyRT5wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 - [Joonbob Adds phase pocket guide](https://www.youtube.com/watch?v=DGWKBtK7lR4)
+
+{{< rawhtml >}}
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/DGWKBtK7lR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 - [Joonbob Flames of Asphodelos pocket guide](https://www.youtube.com/watch?v=VebIW87iAQY)
+
+{{< rawhtml >}}
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/VebIW87iAQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
