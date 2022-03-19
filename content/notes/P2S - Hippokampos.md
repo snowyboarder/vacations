@@ -5,7 +5,7 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-[Back](notes/Asphodelos.md)
+[Back](/notes/Asphodelos.md)
 
 ## Encounter Info
 

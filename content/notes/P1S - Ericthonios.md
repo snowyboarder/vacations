@@ -5,7 +5,7 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-[Back](notes/Asphodelos.md)
+[Back](/notes/Asphodelos.md)
 
 ## Encounter Info
 
@@ -40,7 +40,7 @@ tags:
 
 ### Fourfold Shackles - Timer strat
 {{< rawhtml >}}
-<img src="/quartz/notes/images/timer%20strat.jpg" width="500">
+<img src="/notes/images/timer%20strat.jpg" width="500">
 {{< /rawhtml >}}
 
 ---
