@@ -1,3 +1,3 @@
 {{< rawhtml >}}
-<img src="quartz/notes/images/" width="500">
+<img src="/notes/images/" width="60%">
 {{< /rawhtml >}}
