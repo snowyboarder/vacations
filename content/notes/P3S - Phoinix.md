@@ -11,6 +11,7 @@ tags:
 ## Encounter Info
 
 >**DPS Check:** ~42,200 DPS
+
 >**Enrage**: ~11:03 (depends on how fast add phase is completed)
 
 ### Drops
@@ -33,18 +34,12 @@ tags:
 
 ## Strategy Reference
 ### Dark Fire Numbers
-![Dark Fire|700](notes/images/Pasted%20image%2020220318211834.png)
+![Dark Fire|700](/content/notes/images/Pasted%20image%2020220318211834.png)
 ### Add Tethers
-![Tethers|400](notes/images/Pasted%20image%2020220318211605.png)
-![Solo tethers|400](notes/images/Pasted%20image%2020220318211746.png)
+![Tethers|400](/content/notes/images/Pasted%20image%2020220318211605.png)
+![Solo tethers|400](/content/notes/images/Pasted%20image%2020220318211746.png)
 ### Fountain of Fire toolbox
-<iframe
-		border=0
-		frameborder=0
-		height=900
-		width=900
-		src="https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1">
-</iframe>
+[Toolbox Link](https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1)
 
 
 ---
