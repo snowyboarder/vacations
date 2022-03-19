@@ -40,14 +40,6 @@ tags:
 ### Kampeos Harma
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=677343458141461&preview=1)
 
-{{< rawhtml >}}
-<iframe
-		src="https://ff14.toolboxgaming.space/?id=677343458141461&preview=1"
-		height="1000px"
-		width="1000px">
-</iframe>
-{{< /rawhtml >}}
-
 ### Channeling Overflow 2
 {{< rawhtml >}}
 <img src="/quartz/notes/images/flow2.jpg" width="500">

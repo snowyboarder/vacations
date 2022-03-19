@@ -57,14 +57,6 @@ tags:
 ### Fountain of Fire toolbox
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1)
 
-{{< rawhtml >}}
-<iframe
-		src="https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1"
-		height="1000px"
-		width="1000px">
-</iframe>
-{{< /rawhtml >}}
-
 ---
 
 ## Guide Links
