@@ -53,6 +53,10 @@ tags:
 ---
 
 ## Guide Links
-**The Balance**: 
+**The Balance**: [Text guide](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p2s/)
 
-**Video Guide**:
+**Video Guides**:
+- [Rainesama](https://www.youtube.com/watch?v=ZgA7787UGKk)
+- [Joonbob Kampeos Harma pocket guide](https://www.youtube.com/watch?v=PRQSMXcjpRk)
+- [Joonbob Channeling Overflow 2+3 pocket guide](https://www.youtube.com/watch?v=lWMYCSBy6Ak)
+
