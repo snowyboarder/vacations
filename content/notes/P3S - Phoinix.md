@@ -35,21 +35,39 @@ tags:
 ## Strategy Reference
 
 ### Dark Fire Numbers
-![Dark Fire|700](/quartz/notes/images/Pasted%20image%2020220318211834.png)
+{{< rawhtml >}}
+<img src="/quartz/notes/images/Pasted%20image%2020220318211834.png" width="900">
+{{< /rawhtml >}}
 
 ### Add Tethers
-![Tethers|400](/quartz/notes/images/Pasted%20image%2020220318211605.png)
-![Solo tethers|400](/quartz/notes/images/Pasted%20image%2020220318211746.png)
+{{< rawhtml >}}
+<img src="/quartz/notes/images/Pasted%20image%2020220318211605.png" width="500">
+{{< /rawhtml >}}
+{{< rawhtml >}}
+<img src="/quartz/notes/images/Pasted%20image%2020220318211746.png" width="500">
+{{< /rawhtml >}}
 
-**Line AoE hitbox**
-![Image title](/quartz/notes/images/adds-dash.jpg)
+
+#### Line AoE hitbox
+
+{{< rawhtml >}}
+<img src="/quartz/notes/images/adds-dash.jpg" width="500">
+{{< /rawhtml >}}
 
 ### Fountain of Fire toolbox
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1)
 
+{{< rawhtml >}}
+<iframe
+		src="https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1"
+		height="1000px"
+		width="1000px">
+</iframe>
+{{< /rawhtml >}}
+
 ---
 
-### Guide Links
+## Guide Links
 **The Balance**: [Text guide](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p3s/)
 
 **Video Guides**:

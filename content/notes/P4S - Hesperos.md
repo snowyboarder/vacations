@@ -11,6 +11,7 @@ tags:
 ## Encounter Info
 
 >**DPS Check:**
+
 >**Enrage**:
 
 ### Drops
@@ -30,6 +31,6 @@ tags:
 
 ---
 
-### Guide Links
+## Guide Links
 **The Balance**: 
 **Video Guide**: 

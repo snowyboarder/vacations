@@ -11,6 +11,7 @@ tags:
 ## Encounter Info
 
 >**DPS Check:** ~39,661 DPS
+
 >**Enrage**: 10:20
 
 ### Drops
@@ -38,8 +39,18 @@ tags:
 ### Intemperance - N/NE swap
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=425445241051461&preview=1#1)
 
+{{< rawhtml >}}
+	<iframe
+			height="1000px"
+			width="1000px"
+			src="https://ff14.toolboxgaming.space/?id=425445241051461&preview=1#1">
+</iframe>
+{{< /rawhtml >}}
+
 ### Fourfold Shackles - Timer strat
-![Timer strat|500](/quartz/notes/images/timer%20strat.jpg)
+{{< rawhtml >}}
+<img src="/quartz/notes/images/timer%20strat.jpg" width="500">
+{{< /rawhtml >}}
 
 ---
 
