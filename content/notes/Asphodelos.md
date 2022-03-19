@@ -3,6 +3,7 @@ title: "Asphodelos"
 tags:
 - Raid
 - Pandemonium
+- Asphodelos
 ---
 
 # Asphodelos

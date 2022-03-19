@@ -3,18 +3,18 @@ title: "P2S - Hippokampos"
 tags:
 - Raid
 - Pandemonium
+- Asphodelos
 ---
+Tags: [Raid](Raid)
+
 # P2S - Hippokampos
 
 ## Encounter Info
 
-```ad-dps-check
-~41,900 DPS
-```
-```ad-enrage
-10:28
-```
-```ad-drops
+>**DPS Check:** ~41,900 DPS
+>**Enrage**: 10:28
+
+### Drops
 **Chest One**
 - 1 coffer selected randomly from the following:
 	- Head
@@ -31,7 +31,6 @@ tags:
 
 **Guaranteed**
 - Page
-```
 
 ## Notable Mechanics
 
@@ -40,10 +39,6 @@ tags:
 
 ---
 
-```ad-info
-title: Guide Links
-**SaltedXIV**:
-**The Balance**:
+### Guide Links
+**The Balance**: 
 **Video Guide**:
-```
-

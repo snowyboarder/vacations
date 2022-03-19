@@ -4,13 +4,10 @@ Tags: [Raid](Raid)
 
 ## Encounter Info
 
-```ad-dps-check
-xxx DPS
-```
-```ad-enrage
-00:00
-```
-```ad-drops
+>**DPS Check:**
+>**Enrage**:
+
+### Drops
 **Chest One**
 - 
 
@@ -19,7 +16,6 @@ xxx DPS
 
 **Guaranteed**
 - Page
-```
 
 ## Notable Mechanics
 
@@ -28,9 +24,6 @@ xxx DPS
 
 ---
 
-```ad-info
-title: Guide Links
-**The Balance**:
-**Video Guide**:
-```
-
+### Guide Links
+**The Balance**: 
+**Video Guide**: 

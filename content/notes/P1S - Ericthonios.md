@@ -3,16 +3,16 @@ title: "P1S - Ericthonios"
 tags:
 - Raid
 - Pandemonium
+- Asphodelos
 ---
 # P1S - Ericthonios
 
 ## Encounter Info
 
 >**DPS Check:** ~39,661 DPS
-
 >**Enrage**: 10:20
 
-## Drops
+### Drops
 **Chest One**
 - 1 coffer randomly selected from the following:
 	- Wrist
