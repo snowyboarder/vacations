@@ -5,7 +5,7 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-[Back](/notes/Asphodelos.md)
+[Back](notes/Asphodelos.md)
 
 ## Encounter Info
 
@@ -35,22 +35,22 @@ tags:
 
 ### Dark Fire Numbers
 {{< rawhtml >}}
-<img src="/notes/images/Pasted%20image%2020220318211834.png" width="900">
+<img src="/quartz/notes/images/Pasted%20image%2020220318211834.png" width="900">
 {{< /rawhtml >}}
 
 ### Add Tethers
 {{< rawhtml >}}
-<img src="/notes/images/Pasted%20image%2020220318211605.png" width="500">
+<img src="/quartz/notes/images/Pasted%20image%2020220318211605.png" width="500">
 {{< /rawhtml >}}
 {{< rawhtml >}}
-<img src="/notes/images/Pasted%20image%2020220318211746.png" width="500">
+<img src="/quartz/notes/images/Pasted%20image%2020220318211746.png" width="500">
 {{< /rawhtml >}}
 
 
 #### Line AoE hitbox
 
 {{< rawhtml >}}
-<img src="/notes/images/adds-dash.jpg" width="500">
+<img src="/quartz/notes/images/adds-dash.jpg" width="500">
 {{< /rawhtml >}}
 
 ### Fountain of Fire toolbox
