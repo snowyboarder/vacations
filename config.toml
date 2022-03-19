@@ -1,4 +1,4 @@
-baseURL = "https://snowyboarder.github.io/quartz/"
+baseURL = "http://buzhi.bar/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
