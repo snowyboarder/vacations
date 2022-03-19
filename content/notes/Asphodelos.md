@@ -6,8 +6,6 @@ tags:
 - Asphodelos
 ---
 
-# Asphodelos
-
 ## Fights in tier:
 
 - [P1S - Ericthonios](notes/P1S%20-%20Ericthonios.md)

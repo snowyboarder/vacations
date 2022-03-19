@@ -1,7 +1,3 @@
-Tags: [Raid](Raid)
-
-# {{title}}
-
 ## Fights in tier:
 
 - [[]]

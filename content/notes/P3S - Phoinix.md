@@ -5,7 +5,6 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-# P3S - Phoinix
 [Back](notes/Asphodelos.md)
 
 ## Encounter Info

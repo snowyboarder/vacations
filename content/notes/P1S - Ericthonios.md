@@ -5,7 +5,6 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-# P1S - Ericthonios
 [Back](notes/Asphodelos.md)
 
 ## Encounter Info

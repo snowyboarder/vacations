@@ -5,7 +5,6 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-# P2S - Hippokampos
 [Back](notes/Asphodelos.md)
 
 ## Encounter Info

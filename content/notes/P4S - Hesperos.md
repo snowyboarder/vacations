@@ -5,8 +5,6 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-
-# P4S - Hesperos
 [Back](notes/Asphodelos.md)
 
 ## Encounter Info
