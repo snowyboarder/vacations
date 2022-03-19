@@ -43,3 +43,4 @@
     </script>
 </head>
 {{ template "_internal/google_analytics.html" . }}
+{{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
