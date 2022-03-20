@@ -34,24 +34,15 @@ tags:
 ## Strategy Reference
 
 ### Dark Fire Numbers
-{{< rawhtml >}}
-<img src="/notes/images/Pasted%20image%2020220318211834.png" width="60%">
-{{< /rawhtml >}}
+![Dark fire](/notes/images/Pasted%20image%2020220318211834.png)
 
 ### Add Tethers
-{{< rawhtml >}}
-<img src="/notes/images/Pasted%20image%2020220318211605.png" width="60%">
-{{< /rawhtml >}}
-{{< rawhtml >}}
-<img src="/notes/images/Pasted%20image%2020220318211746.png" width="60%">
-{{< /rawhtml >}}
-
+![All tethers](notes/images/Pasted%20image%2020220318211605.png)
+![Single tether](notes/images/Pasted%20image%2020220318211746.png)
 
 #### Line AoE hitbox
 
-{{< rawhtml >}}
-<img src="/notes/images/adds-dash.jpg" width="60%">
-{{< /rawhtml >}}
+![Adds dash](notes/images/adds-dash.jpg)
 
 ### Fountain of Fire toolbox
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1)

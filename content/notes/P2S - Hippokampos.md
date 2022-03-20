@@ -40,14 +40,10 @@ tags:
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=677343458141461&preview=1)
 
 ### Channeling Overflow 2
-{{< rawhtml >}}
-<img src="/notes/images/flow2.jpg" width="60%">
-{{< /rawhtml >}}
+![Channeling Overflow](/notes/images/flow2.jpg)
 
 ### Predatory Avarice 2
-{{< rawhtml >}}
-<img src="/notes/images/avarice2.jpg" width="60%px">
-{{< /rawhtml >}}
+![Channeling Overflow](/notes/images/avarice2.jpg)
 
 ---
 

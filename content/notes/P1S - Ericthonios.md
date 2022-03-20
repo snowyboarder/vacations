@@ -39,9 +39,8 @@ tags:
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=425445241051461&preview=1#1)
 
 ### Fourfold Shackles - Timer strat
-{{< rawhtml >}}
-<img src="/notes/images/timer%20strat.jpg" width="60%">
-{{< /rawhtml >}}
+
+![Timer Strat](/notes/images/timer%20strat.jpg)
 
 ---
 
