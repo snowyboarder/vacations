@@ -14,15 +14,8 @@ tags:
 >**Enrage**:
 
 ### Drops
-
-**Chest One**
-- 
-
-**Chest Two**
-- 
-
 **Guaranteed**
-- Page
+- Weapon totem
 
 ## Notable Mechanics
 
