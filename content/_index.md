@@ -2,8 +2,6 @@
 title: "Home Page"
 ---
 
-# Navigation
-
 ## All-Inclusive options
 - [Breezes Resort and Spa](https://www.breezes.com)
 	- Bahamas/Nassau
