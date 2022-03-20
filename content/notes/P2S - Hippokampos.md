@@ -10,7 +10,7 @@ tags:
 ## Encounter Info
 
 >**DPS Check:** ~41,900 DPS
-
+>
 >**Enrage**: 10:28
 
 ### Drops
