@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "0169bd52d238350a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcc1b072253a7249",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "static/icon.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "902824b3c47c18d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e88b0f833be5362",
+        "type": "tabs",
+        "dimension": 81.56716417910448,
+        "children": [
+          {
+            "id": "b8de5944c5b6d0f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c103035ea3755bd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d93d4370076dce4",
+        "type": "tabs",
+        "dimension": 18.43283582089552,
+        "children": [
+          {
+            "id": "a5f00c2e56384f72",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "24210e2eea6f6ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee86a216ab717698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6edad7899c6dc78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "static/icon.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "948036b2aff747ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dcc1b072253a7249",
+  "lastOpenFiles": [
+    "static/icon.png",
+    "screenshot.png",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "notes/Dragonsong War Ultimate.md",
+    "notes/Ultimate.md",
+    "notes/P1S - Ericthonios.md",
+    "notes/Asphodelos.md",
+    "_index.md",
+    "notes/P2S - Hippokampos.md"
+  ]
+}
