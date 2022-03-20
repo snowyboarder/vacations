@@ -1,4 +1,4 @@
-baseURL = "http://buzhi.bar/"
+baseURL = "https://snowyboarder.github.io/vacations/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
