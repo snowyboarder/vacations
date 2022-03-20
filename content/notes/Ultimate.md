@@ -2,7 +2,9 @@
 title: "Ultimate"
 katex: true
 tags:
-
+- Raid
+- Ultimate
+toc: false
 ---
 ## Fights in tier:
 

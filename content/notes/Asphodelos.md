@@ -4,6 +4,7 @@ tags:
 - Raid
 - Pandemonium
 - Asphodelos
+toc: false
 ---
 
 ## Fights in tier:

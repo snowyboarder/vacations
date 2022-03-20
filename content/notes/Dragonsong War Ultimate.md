@@ -2,7 +2,9 @@
 title: "Dragonsong War Ultimate"
 katex: true
 tags:
-
+- Raid
+- Ultimate
+- Dragonsong War
 ---
 [Back](notes/Ultimate.md)
 ## Encounter Info
